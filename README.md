@@ -2,13 +2,13 @@
 
 I am a full stack web developer passionate about software engineering, artificial intelligence and science in general.
 
-## Lastest tech I work with ⚡️
+## Lastest tech I work with 👨🏾‍💻
 - Laguages: JavaScript, Python
 - Frameworks: Node.js, Express, React
 - tools: Git, vscode
 - I worked with: Java, Spring boot, MATLAB, c, etc.
 
-## GET IN CONTACT 💬
+## Get in contact 💬
 📫 Email: [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)  
-👨🏾‍💻 LinkedIn: [eliseeamegassi](linkedin.com/in/eliseeamegassi)  
+👨🏾‍💼 LinkedIn: [eliseeamegassi](linkedin.com/in/eliseeamegassi)  
 🐦 Twitter: [@eoamegassi](https://twitter.com/eoamegassi)
