@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi 👋🏾, I am Elisée Othniel AMEGASSI
 
-<!--
-**eoamegassi/eoamegassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack web developer passionate about software engineering, artificial intelligence and science in general.
 
-Here are some ideas to get you started:
+## Lastest tech I work with ⚡️
+- Laguages: JavaScript, Python
+- Frameworks: Node.js, Express, React
+- tools: Git, vscode
+- I worked with: Java, Spring boot, MATLAB, c, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## GET IN CONTACT 💬
+📫 Email: [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)  
+👨🏾‍💻 LinkedIn: [eliseeamegassi](linkedin.com/in/eliseeamegassi)  
+🐦 Twitter: [@eoamegassi](https://twitter.com/eoamegassi)
