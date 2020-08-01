@@ -5,7 +5,7 @@ I am a full stack web developer passionate about software engineering, artificia
 ## Lastest tech I work with 👨🏾‍💻
 - Laguages: JavaScript, Python
 - Frameworks: Node.js, Express, React
-- tools: Git, vscode
+- tools: Git, vscode, Postman
 - I worked with: Java, Spring boot, MATLAB, c, etc.
 
 ## Get in contact 💬
