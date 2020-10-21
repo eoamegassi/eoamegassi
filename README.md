@@ -2,11 +2,23 @@
 
 I am a full stack web developer passionate about software engineering, artificial intelligence and science in general.
 
-## Lastest tech I work with 👨🏾‍💻
-- Laguages: JavaScript, Python
-- Frameworks: Node.js, Express, React
-- tools: Git, vscode, Postman
-- I worked with: Java, Spring boot, MATLAB, c, etc.
+## What I Do 📝
+- Full stack web development
+- APIs and Microservices development 
+- Agile software project management
+
+
+## What I am interested in 💡
+- Full stack web development
+- Computer graphics
+- AI & Research
+
+
+## What I am currently (re)learning 📚
+- Web design
+- Spring boot and Microservices architecture
+- Spanish 🇪🇸
+
 
 ## Get in contact 💬
 📫 Email: [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)  
