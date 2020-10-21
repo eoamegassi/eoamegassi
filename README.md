@@ -1,6 +1,7 @@
 # Hi 👋🏾, I am Elisée Othniel AMEGASSI
 
-I am a full stack web developer passionate about software engineering, artificial intelligence and science in general.
+I am an independent Full Stack Web Developer passionate about Software Engineering, Artificial Intelligence and Science in general. I am open to opportunities to expand my skillset and my portfolio.
+
 
 ## What I Do 📝
 - Full stack web development
