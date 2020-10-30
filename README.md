@@ -4,15 +4,15 @@ I am an independent Full Stack Web Developer passionate about Software Engineeri
 
 
 ## What I Do 📝
+- Agile software development
 - Full stack web development
 - APIs and Microservices development 
-- Agile software project management
 
 
 ## What I am interested in 💡
 - Full stack web development
 - Computer graphics
-- AI & Research
+- AI & Science
 
 
 ## What I am currently (re)learning 📚
