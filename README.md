@@ -22,4 +22,4 @@ I am an independent Sofware Engineer passionate about science and artificial int
 
 
 ## You want to know more? 😃
-Great!! Find me on my [LinkedIn](linkedin.com/in/eliseeamegassi) or email me at [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com).
+Great!! Find me on my [LinkedIn](linkedin.com/in/eliseeamegassi) or email me at [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)
