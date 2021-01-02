@@ -1,24 +1,25 @@
-# Hi 👋🏾, I am Elisée Othniel AMEGASSI
+# Hi 👋🏾, I am Elisée
 
-I am an independent Full Stack Web Developer passionate about Software Engineering, Artificial Intelligence and Science in general. I am open to opportunities to expand my skillset and my portfolio.
+I am an independent Sofware Engineer passionate about science and artificial intelligence.   
+
+## What I'm currently doing 👨🏾‍💻
+- Analysis and design of information systems
+- Java/J2EE module development with Spring Boot  
+- Frontend development with react
 
 
-## What I Do 📝
-- Agile software development
-- Full stack web development
-- APIs and Microservices development 
+## What I know 📝
+- Agile Full stack web development 
+- Microservices architecture
+- Data structures and algorithms 
+- Machine learning
+- Scientific computing
 
 
 ## What I am interested in 💡
-- Full stack web development
+- AI applications in bioinformatics
 - Computer graphics
-- AI & Science
-
-
-## What I am currently (re)learning 📚
-- Web design
-- Spring boot and Microservices architecture
-- Spanish 🇪🇸
+- Research  
 
 
 ## Get in contact 💬
