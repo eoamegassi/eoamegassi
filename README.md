@@ -12,8 +12,7 @@ I am an independent Sofware Engineer passionate about science and artificial int
 - Agile Full stack web development 
 - Microservices architecture
 - Data structures and algorithms 
-- Machine learning
-- Scientific computing
+- Machine learning and Scientific computing
 
 
 ## What I am interested in 💡
@@ -22,7 +21,5 @@ I am an independent Sofware Engineer passionate about science and artificial int
 - Research  
 
 
-## Get in contact 💬
-📫 Email: [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)  
-👨🏾‍💼 LinkedIn: [eliseeamegassi](linkedin.com/in/eliseeamegassi)  
-🐦 Twitter: [@eoamegassi](https://twitter.com/eoamegassi)
+## Want to learn more? 😃
+Find me on my [LinkedIn](linkedin.com/in/eliseeamegassi) or email me at [eliseeamegassi@gmail.com](mailto:eliseeamegassi@gmail.com)  
