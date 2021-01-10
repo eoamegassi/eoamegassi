@@ -4,7 +4,7 @@ I am an independent Sofware Engineer passionate about science and artificial int
 
 ## What I'm currently doing 👨🏾‍💻
 - Analysis and design of information systems
-- Java/J2EE module development with Spring Boot  
+- Java/J2EE development with Spring Boot  
 - Frontend development with react
 
 
@@ -15,8 +15,9 @@ I am an independent Sofware Engineer passionate about science and artificial int
 - Machine learning and Scientific computing
 
 
-## What I am interested in 💡
-- AI applications in bioinformatics
+## What I am currently interested in 💡
+- Artificial intelligence
+- Bioinformatics
 - Computer graphics
 - Research  
 
